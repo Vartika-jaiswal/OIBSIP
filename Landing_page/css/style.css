@@ -29,7 +29,7 @@ body {
   padding-bottom: 75px;
 }
 
-/*header section*/
+
 .hero_area {
   height: 100vh;
   background-image: url(../images/hero.jpg);
@@ -252,8 +252,7 @@ a:focus {
   text-transform: uppercase;
 }
 
-/*end header section*/
-/* slider section */
+
 .slider_section {
   height: 100%;
   display: -webkit-box;
@@ -433,7 +432,7 @@ a:focus {
   display: block;
 }
 
-/* end slider section */
+
 .about_section .img-box {
   position: relative;
 }
@@ -914,7 +913,7 @@ a:focus {
   background-image: url(../images/envelope-white.png);
 }
 
-/* footer section*/
+
 .footer_section {
   font-family: 'Dosis', sans-serif;
   background-color: #ffffff;
@@ -931,6 +930,3 @@ a:focus {
 .footer_section a {
   color: #00d188;
 }
-
-/* end footer section*/
-/*# sourceMappingURL=style.css.map */
